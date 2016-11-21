@@ -60,7 +60,7 @@ void initOpenGL()     //Initiate Function
     glEnable(GL_LIGHTING);
     glEnable(GL_CULL_FACE);
     glFrontFace(GL_CW);
-    glClearColor(0.3f, 0.3f, 0.3f, 1.0f);
+    glClearColor(0.1f, 0.1f, 0.1f, 1.0f);
 
     //Light Values
     glEnable(GL_LIGHT0);
